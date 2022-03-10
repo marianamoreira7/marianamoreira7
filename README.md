@@ -47,4 +47,8 @@
 
   <a href="https://www.instagram.com/brignolmari/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/brignolmari/"/></a>
+  <a href="https://stackoverflow.com/users/17571688/mariana-moreira" alt="Instagram">
+  <img src="https://img.shields.io/badge/-StackOverflow-orange"/></a>
+  
+  
 </p>  
