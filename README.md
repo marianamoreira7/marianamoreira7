@@ -3,9 +3,9 @@
 ## 💜 Olá, meu nome é <strong>Mariana!</strong>
 <br>
 <p align="left">
-  💻 Engenheira de software
+  💻 Associate Software Engineer at Nubank 💜 
   
-  🎓 Técnica em desenvolvimento de software, futura estudande de ciência da computação. Graduanda de Engenharia Civil antes de trocar de área e me apaixonar pelo mundo da programação.
+  🎓 Técnica em desenvolvimento de software, futura estudande de engenharia de software. Graduanda de Engenharia Civil antes de trocar de área e me apaixonar pelo mundo da programação.
 <br>
 <br>
 </p>
